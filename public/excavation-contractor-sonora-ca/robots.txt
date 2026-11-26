@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jamestown-ca-95327.onrender.com/sitemap.xml
+Sitemap: https://jamestown-ca-95327.onrender.com/excavation-contractor-sonora-ca/sitemap.xml
